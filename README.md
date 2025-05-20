@@ -1,6 +1,8 @@
-# CNN implementation in C++ and comparison with non-CNN implementations
+# Animal Classifier: CNN Implementation in C++ with Comparison to Traditional Methods
 
-[Brief Project Description - e.g., This project explores image processing/classification using a custom CNN implemented in C++ and compares its performance against traditional non-CNN computer vision techniques, also implemented in C++. Compilation and execution are handled directly via shell scripts.]
+This project explores image classification using a custom Convolutional Neural Network (CNN) implemented in C++, and compares its performance with traditional (non-CNN) computer vision techniques, also implemented in C++. Compilation and execution are handled via shell scripts.
+
+---
 
 ## Prerequisites
 
@@ -97,5 +99,3 @@ This project is compiled and executed directly using the provided shell scripts.
 * **Runtime Errors (Windows: "DLL not found"):** Make sure the directory containing the OpenCV `.dll` files (e.g., `C:\opencv\build\x64\vc16\bin`) is in your system's PATH environment variable.
 
 ---
-
-*(Optional: Add more details about the specific non-CNN methods used, dataset information, how to interpret results, etc.)*
